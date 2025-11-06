@@ -1,0 +1,71 @@
+🎯 IMAGE FILES CHECKLIST
+════════════════════════════════════════════════════════════
+
+Copy all these 47 images into the "images/" folder:
+
+HERO SECTION (1):
+☐ ALI.jpg
+
+PROJECT 1 - VISUAL IDENTITY (20):
+☐ LOGO.jpg
+☐ identityview.jpg
+☐ paletging.jpg
+☐ uniform.jpg
+☐ bakary.jpg
+☐ products.jpg
+☐ product2.jpg
+☐ menu.jpg
+☐ coffee_makr.jpg
+☐ instagramover.jpg
+☐ packetging.jpg
+☐ ditination.jpg
+☐ roadsd.jpg
+☐ inside.jpg
+☐ workspase.jpg
+☐ focus.jpg
+☐ happywithdrink.jpg
+☐ sitting.jpg
+☐ sitting2.jpg
+☐ workperfectly.jpg
+
+PROJECT 2 - FACEBOOK (6):
+☐ Campaign.jpg
+☐ Ad Set 1.jpg
+☐ Ad Set 2.jpg
+☐ ad1.jpg
+☐ ad2.jpg
+☐ catalog.jpg
+
+PROJECT 2 - TIKTOK (5):
+☐ tiktok_campaign.jpg
+☐ tiktok_adset_1.jpg
+☐ tiktok_adset2.jpg
+☐ tiktok_ad1.jpg
+☐ tiktok_ad2.jpg
+
+PROJECT 2 - GOOGLE (8):
+☐ google_1.jpg
+☐ google_2.jpg
+☐ google_3.jpg
+☐ google_4.jpg
+☐ google_5.jpg
+☐ google_6.jpg
+☐ google_7.jpg
+☐ google_8.jpg
+
+PROJECT 2 - SNAPCHAT (5):
+☐ snapchat_campaign.jpg
+☐ snapchat_Ad_Set_1.jpg
+☐ snapchat_ad_set_2.jpg
+☐ snapchat_ad1.jpg
+☐ snapchat_ad2.jpg
+
+PROJECT 2 - ANALYTICS (2):
+☐ GA.jpg
+☐ gtm.jpg
+
+════════════════════════════════════════════════════════════
+TOTAL: 47 IMAGES
+
+✅ Once all images are added, your portfolio is complete!
+════════════════════════════════════════════════════════════
